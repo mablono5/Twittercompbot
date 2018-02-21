@@ -55,7 +55,7 @@ sudo nano config.py
 
 Ctrl X to save then y, press enter
 
-python twitter-compbot.py
+python twittercompbot.py
 
 DONE!
 
